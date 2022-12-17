@@ -1,3 +1,6 @@
+# Febry Billiyagi Karsidi - TI02
+# Bangun datar & aritmatika
+
 import luas_bangun_datar as bangunDatar
 import aritmatika
 
