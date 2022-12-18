@@ -1,6 +1,3 @@
-import math
-
-
 def luasPersegi(sisi):
     return sisi * sisi
 

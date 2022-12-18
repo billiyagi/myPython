@@ -2,10 +2,15 @@
 # Bangun datar & aritmatika
 
 import luas_bangun_datar as bangunDatar
+import aritmatika_automation as aritmatikaAuto
 import aritmatika
 
-# Bangun Datar
-print(bangunDatar.luasLayangLayang(8, 5))
+# Bangun Datar1
+print(bangunDatar.luasLayangLayang(20, 20))
 
-# Aritmatika
-print(aritmatika.pembagian(200, 7))
+
+# Arimatika Original
+# print(aritmatika.penjumlahan(20, 20, 20, 20))
+
+# # Aritmatika Automation
+# print(aritmatikaAuto.doMath())
